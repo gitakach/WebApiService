@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Title>پکیج وب سرویس پیشگام رایان</Title>
+		<Version>1.1.0</Version>
+		<Company>پیشگام رایان</Company>
+		<IsPackable>true</IsPackable>
+		<OutputType>Library</OutputType>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="RestSharp" Version="109.0.1" />
+	</ItemGroup>
+
+</Project>
