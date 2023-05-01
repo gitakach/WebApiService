@@ -1,5 +1,5 @@
-﻿# پکیج وب سرویس پیشگام رایان<br/>
-## آدرس پکیج نیوگت:<br />
+﻿# پکیج وب سرویس پیشگام رایان
+## آدرس پکیج نیوگت:
 https://www.nuget.org/packages/PishgamApi/ <br/>
-### نمونه کد<br />
+### نمونه کد
 https://github.com/pishgam-rayan/ApiSample
